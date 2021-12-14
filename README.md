@@ -14,5 +14,5 @@
 [![Caojiele's github total](https://github-readme-streak-stats.herokuapp.com/?user=caojiele&show_icons=true&theme=radical&cache_seconds=1800&locale=en)](https://caojiele.com/)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=nacos)](https://github.com/alibaba/nacos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=sentinel)](https://github.com/alibaba/Sentinel)
+[![Nacos Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=nacos)](https://github.com/alibaba/nacos)
+[![Sentinel Card](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=sentinel)](https://github.com/alibaba/Sentinel)
